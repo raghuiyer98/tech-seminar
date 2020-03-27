@@ -1,0 +1,24 @@
+{
+  "name": "customers",
+  "version": "1.0.0",
+  "description": "customers despricition",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "chai": "^4.2.0",
+    "chai-http": "^2.0.1",
+    "express": "^4.17.1",
+    "mongoose": "^5.9.5"
+  },
+  "devDependencies": {
+    "mocha": "^7.1.1"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "raghu",
+  "license": "ISC"
+}
